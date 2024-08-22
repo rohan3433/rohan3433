@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohan gupta
-- 👀 I’m interested in the field of web development 
+- 👀 I’m interested in the field of Software Engineering 
 - 🌱 I’m currently learning backend development 
 - 📫 How to reach me : - mail me @rohanab343@gmail.com
 <!---
