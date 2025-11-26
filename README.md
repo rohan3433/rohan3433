@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan gupta
 - 👀 I’m interested in the field of Software Engineering 
-- 🌱 Passionate in Development (MERN DEVELOPER)
+- 🌱 Passionate in Development (MERN DEVELOPER) and finance with Ml
 - 📫 How to reach me : - mail me @rohanab343@gmail.com
 <!---
 rohan3433/rohan3433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
